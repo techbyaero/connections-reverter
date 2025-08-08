@@ -7,7 +7,7 @@ This script will change corporate sounding "Connections" to the wording Roblox s
 <h1>How to install</h1>
 <ol>
   <li>To get started this UserScript, you'll need an extension like <a href=https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">TamperMonkey</a> or <a href=https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf>OrangeMonkey</a> (recommended).</li>
-  <li>To install it, <a href="scripts.techbyaero.com/connections-reverter.user.js">click here</a>.</li>
+  <li>To install it, <a href="https://scripts.techbyaero.com/connections-reverter.user.js">click here</a>.</li>
   <li>If your UserScript Extension asks, click "install"</li>
 </ol>
 <hr>
