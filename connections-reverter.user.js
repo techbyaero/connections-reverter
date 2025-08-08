@@ -7,6 +7,8 @@
 // @grant        none
 // ==/UserScript==
 
+// By using this script, you agree to AeroTech's Open-Source License Policy (https://support.techbyaero.com/en-us/policies/open-source-license)
+
 (function() {
     'use strict';
 
