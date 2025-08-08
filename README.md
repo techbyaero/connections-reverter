@@ -10,6 +10,3 @@ This script will change corporate sounding "Connections" to the wording Roblox s
   <li>To install it, <a href="https://scripts.techbyaero.com/connections-reverter.user.js">click here</a>.</li>
   <li>If your UserScript Extension asks, click "install"</li>
 </ol>
-<hr>
-<h1>Disclamers</h1>
-Some things may not work, like friend count on "My Friends". Unfortunally I couldn't get this to work.
