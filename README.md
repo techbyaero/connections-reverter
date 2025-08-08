@@ -10,3 +10,6 @@ This script will change corporate sounding "Connections" to the wording Roblox s
   <li>To install it, <a href="https://scripts.techbyaero.com/connections-reverter.user.js">click here</a>.</li>
   <li>If your UserScript Extension asks, click "install"</li>
 </ol>
+<hr>
+<h1>License</h1>
+To see the license for this project, <a href="https://support.techbyaero.com/en-us/policies/open-source-license">click here</a>.
