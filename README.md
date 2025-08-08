@@ -12,4 +12,4 @@ This script will change corporate sounding "Connections" to the wording Roblox s
 </ol>
 <hr>
 <h1>License</h1>
-To see the license for this project, <a href="https://support.techbyaero.com/en-us/policies/open-source-license">click here</a>.
+By installing this script, you agree to the <a href="https://support.techbyaero.com/en-us/policies/open-source-license">Open-Source License Policy</a>.
