@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Roblox "Connections" to "Friends"
-// @version      2.0
+// @version      2.1
 // @description  Persistently changes every last instance of "Connect(ions)" to "Friend(s)".
 // @author       AeroTech (TechByAero)
 // @match        https://www.roblox.com/*
@@ -27,7 +27,8 @@
         { type: 'text', selector: "h2.server-list-header", find: "Connections", replace: "Friends" },
         { type: 'text', selector: ".friends-in-server-label", find: "Connections", replace: "Friends" },
         { type: 'text', selector: "span.mutual-friends-tooltip-label", find: "Connection", replace: "Friend" },
-        { type: 'text', selector: "span.play-with-others-text", find: "connections", replace: "friends" }
+        { type: 'text', selector: "span.play-with-others-text", find: "connections", replace: "friends" },
+        { type: 'text', selector: "#friendsTooltip > div.tooltip-inner", find: "Connections are established when two Roblox users mutually agree to add each other.", replace: "Friends are established when two Roblox users mutually agree to friendship." }
     ];
 
     const persistentReplace = () => {
